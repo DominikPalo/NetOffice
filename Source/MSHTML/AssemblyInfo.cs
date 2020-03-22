@@ -14,7 +14,7 @@ using NetOffice.Attributes;
 [assembly: PrimaryInteropAssembly(1, 0)]
 [assembly: ImportedFromTypeLib("MSHTML")]
 [assembly: Guid("3050F1C5-98B5-11CF-BB82-00AA00BDCE0B")]
-[assembly: NetOfficeAssemblyAttribute("1.7.4.6")]
+[assembly: NetOfficeAssemblyAttribute("1.7.4.7")]
 [assembly: Dependency("NetOffice.dll", LoadHint.Default)]
 
 

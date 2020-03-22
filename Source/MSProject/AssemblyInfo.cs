@@ -17,7 +17,7 @@ using NetOffice.Attributes;
 [assembly: PrimaryInteropAssembly(1, 0)]
 [assembly: ImportedFromTypeLib("MSProject")]
 [assembly: Guid("A7107640-94DF-1068-855E-00DD01075445")]
-[assembly: NetOfficeAssemblyAttribute("1.7.4.6")]
+[assembly: NetOfficeAssemblyAttribute("1.7.4.7")]
 [assembly: Dependency("OfficeApi.dll", LoadHint.Default)]
 [assembly: Dependency("VBIDEApi.dll", LoadHint.Default)]
 [assembly: Dependency("MSHTMLApi.dll", LoadHint.Default)]

@@ -17,7 +17,7 @@ using NetOffice.Attributes;
 [assembly: PrimaryInteropAssembly(1, 0)]
 [assembly: ImportedFromTypeLib("Visio")]
 [assembly: Guid("00021A98-0000-0000-C000-000000000046")]
-[assembly: NetOfficeAssemblyAttribute("1.7.4.6")]
+[assembly: NetOfficeAssemblyAttribute("1.7.4.7")]
 [assembly: Dependency("NetOffice.dll", LoadHint.Default)]
 
 
